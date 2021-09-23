@@ -1,5 +1,5 @@
 .profile{
-	margin-left:40px;
+	margin-left:30px;
 }
 
 .btn{
@@ -7,16 +7,11 @@
 }
 
 .container{
-	background-color:whitesmoke;
-}
-
-.nav{
 	background-color:white;
 }
 
-
 .ot{
-	margin:30px;
+	margin:40px;
 }
 
 /*footer css*/
